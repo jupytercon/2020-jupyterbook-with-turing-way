@@ -7,7 +7,7 @@
 ## Title: Creating a Jupyter Book with The Turing Way
 
 - **Subtitle:** Create a Jupyter Book from scratch using chapters from *The Turing Way* on Reproducible Research.
-- **Duration:** 2h (120 minutes)
+- **Duration:** 2 - 4h (based on familarity)
 - **Audience level**: Novice programmers/Intermediate GitHub users
 - **Prerequisite**: previous experience with version control, GitHub, Markdown, Jupyter Notebooks, basic commands of bash and basic Pathon
 - **Tutorial files**: This tutorial is organised in 7 short modules that are developed in Jupyter Notebooks and paired with introductory videos.
